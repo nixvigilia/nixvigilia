@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nix</h1>
+<h1 align="center">Hi 👋, I'm Nix</h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 <h3 align="center">A passionate Full Stack Developer from the Philippines</h3>
 
 - 🌱 I’m currently learning **ReactJS & VueJS combining them with Ruby on Rails**
@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nixvigilia)](https://github.com/nixvigilia/github-readme-stats)
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
