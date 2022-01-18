@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer - Ruby on Rails | ReactJS | VueJS | PHP | Codeigniter</h3>
 
 
-- 🌱 I’m currently learning **ReactJS & VueJS combining them with Ruby on Rails**
+- 🌱 I’m currently learning more about **ReactJS & VueJS combining them with Ruby on Rails**
 
 - 📫 How to reach me **john.nicholai.vigilia@gmail.com**
 
