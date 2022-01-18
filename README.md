@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nix <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></h1> 
 <h3 align="center">Full Stack Developer - Ruby on Rails | ReactJS | VueJS | PHP | Codeigniter</h3>
 
+Almost all my repositories here are uploaded to Heroku, and all I use is free Web Dyno. Loading the website will take a while because when dyno or website doesn't receive any traffic in 1 hour, dyno goes to sleep. Thank you for your patience.
+
 
 - 🌱 I’m currently learning more about **ReactJS & VueJS, combining them with Ruby on Rails.**
 
