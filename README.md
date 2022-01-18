@@ -7,6 +7,8 @@
 
 - ⚡ Hobbies include, **Aquascaping, Eating, Playing Dota with my friends**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nixvigilia)](https://github.com/nixvigilia/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/nixoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nixoy" height="30" width="40" /></a>
