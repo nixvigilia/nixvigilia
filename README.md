@@ -3,6 +3,8 @@
 
 Almost all my repositories here are uploaded to Heroku, and all I use is free Web Dyno. Loading the website may take a while as when dyno or website doesn't receive any traffic in 1 hour, dyno goes to sleep. Thank you for your patience.
 
+For the past six months, I've been building my portfolio using React/Vue JS combined with Ruby on Rails
+
 
 - 🌱 I’m currently learning more about **ReactJS & VueJS, combining them with Ruby on Rails.**
 
