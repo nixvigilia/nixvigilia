@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nix <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></h1> 
 <h3 align="center">Full Stack Developer - Ruby on Rails | ReactJS | VueJS | PHP | Codeigniter</h3>
 
-- 🌱 I’m currently learning more about **ReactJS & VueJS, combining them with Ruby on Rails.**
+- 🌱 I’m currently learning more about **ReactJS, combining it with Ruby on Rails.**
 
 - 📫 How to reach me **john.nicholai.vigilia@gmail.com**
 
