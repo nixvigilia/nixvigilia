@@ -8,10 +8,6 @@
 - ⚡ Hobbies include, **Aquascaping, Eating, Playing Dota with my friends**
 
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nixvigilia)](https://github.com/nixvigilia/github-readme-stats)
 
 
